@@ -1,4 +1,2 @@
 # X4 PROJECT
-Desafortunadamente, este proyecto ya no es open-source. GG a los que tienen el código antiguo descargado.
-
-~ Venax
+what are you doing here? I removed all of the source code. this shit is deprecated since 2021 LMAO
